@@ -71,7 +71,7 @@ L’application finale est un tableau de bord fonctionnel qui :
 
 1. Clonez le dépôt GitHub sur votre machine locale :
    ```bash
-   git clonehttps://github.com/AKA29-KL/Next_Js
+   git clone https://github.com/AKA29-KL/Next_Js
    cd Next_Js
    ```
 
